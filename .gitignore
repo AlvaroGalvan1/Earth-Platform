@@ -1,0 +1,29 @@
+# Python virtual environment
+earth_env/
+.venv/
+venv/
+
+# PyTorch/TensorFlow generated files
+__pycache__/
+*.pyc
+*.pt
+*.pth
+*.bin
+
+# IDE and OS specific files
+.idea/          # PyCharm
+.vscode/        # VS Code
+.DS_Store       # macOS
+Thumbs.db       # Windows
+
+# Data files (often large, can be re-generated)
+*.tif
+*.geotiff
+*.npy
+*.json
+*.csv
+*.shp
+
+# Notebook specific files
+.ipynb_checkpoints/
+
